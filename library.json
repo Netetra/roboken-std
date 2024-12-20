@@ -10,8 +10,8 @@
   },
   "frameworks": "*",
   "platforms": "*",
-  "headers": ["roboken_std.h"],
+  "headers": ["roboken_std.hpp"],
   "export": {
-    "include": ["**/*.h"]
+    "include": ["**/*.hpp"]
   }
 }
